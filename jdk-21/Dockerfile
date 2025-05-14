@@ -45,7 +45,6 @@ RUN java -version && \
     npm -v && \
     npx playwright --version
 
-
 # Final directory to work in
 WORKDIR /app
 
