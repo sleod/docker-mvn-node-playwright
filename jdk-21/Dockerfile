@@ -26,6 +26,7 @@ RUN curl -fsSL https://deb.nodesource.com/setup_18.x | bash - && \
     apt-get install -y nodejs && \
     npm install -g npm
 
+
 #Install Playwright
 #Env
 ENV PLAYWRIGHT_BROWSERS_PATH=/opt/ms-playwright
