@@ -24,5 +24,5 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           context: ./jdk-21
-          tags: sleodlx/jdk-21-mvn-node-playwright:v1.49.0
+          tags: sleodlx/jdk-21-mvn-node-playwright:v1.52.0
           push: true
