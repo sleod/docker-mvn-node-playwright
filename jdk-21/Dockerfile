@@ -22,7 +22,7 @@ ENV LANG C.UTF-8
 ENV LC_ALL C.UTF-8
 
 # Install Node.js LTS (v18)
-RUN curl -fsSL https://deb.nodesource.com/setup_18.x | bash - && \
+RUN curl -fsSL https://deb.nodesource.com/setup_22.x | bash - && \
     apt-get install -y nodejs && \
     npm install -g npm
 
