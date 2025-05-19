@@ -7,9 +7,6 @@ Docker image for Java based automated UI tests with Playwright.
 ## Contained Libs
 * openjdk 21
 * Maven 3.9
-* Allure CLi 2.33
-* Chrome Stable
-* Chrome Driver (path: /usr/bin/chromedriver)
 * Playwright and Browser Binaries (path: /opt/ms-playwright)
 
 ## Tags
