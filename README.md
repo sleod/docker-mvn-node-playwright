@@ -10,7 +10,7 @@ Docker image for Java based automated UI tests with Playwright.
 * Playwright and Browser Binaries (path: /opt/ms-playwright)
 
 ## Tags
-> * [latest](jdk-21/Dockerfile)
+> * [latest](https://github.com/sleod/docker-mvn-node-playwright/blob/main/jdk-21/Dockerfile)
 
 ## Docker Image
 > * [sleodlx/jdk-21-mvn-node-playwright:latest](https://hub.docker.com/repository/docker/sleodlx/jdk-21-mvn-node-playwright/general)
